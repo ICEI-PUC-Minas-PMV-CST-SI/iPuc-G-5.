@@ -1,0 +1,48 @@
+# Título do Projeto
+
+`CURSO`
+
+`DISCIPLINA`
+
+`SEMESTRE`
+
+Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+
+## Integrantes
+
+* Nome completo do aluno 1
+* Nome completo do aluno 2
+* Nome completo do aluno 3
+* Nome completo do aluno 4
+* Nome completo do aluno 5
+* Nome completo do aluno 6
+
+## Orientador
+
+* Nome completo do professor
+
+# Documentação
+
+<ol>
+<li><a href="documentos/01-introducao.md"> Introdução</a></li>
+<li><a href="documentos/02-objetivos.md"> Objetivos</a></li>
+<li><a href="documentos/03-diagnostico-organizacional.md"> Diagnóstico Organizacional</a></li>
+<li><a href="documentos/04-modelagem-processo-negocio.md"> Modelagem de Processo de Negócio</a></li>
+<li><a href="documentos/05-avaliacao-normas-segurança.md"> Avaliação das Normas de Segurança da Empresa</a></li>
+<li><a href="documentos/06-topologia-rede.md"> Topologia de Rede</a></li>
+<li><a href="documentos/07-aplicacao.md"> Aplicação de Tecnologias de Informação e Comunicação</a></li>
+<li><a href="documentos/08-referencias.md"> Referências</a></li>
+<li><a href="documentos/09-apendice.md"> Apêndice</a></li>
+</ol>
+
+# Hospedagem
+
+* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+
+# Código-Fonte
+
+* <a href="codigo-fonte/README.md">Código Fonte</a>
+
+# Apresentação
+
+* <a href="apresentacao/README.md">Apresentação do Projeto</a>
