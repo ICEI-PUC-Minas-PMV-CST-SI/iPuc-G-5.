@@ -3,7 +3,7 @@
 
 **2.1 Objetivo Geral**
 
-\-A visão dos processos de negócios organizacionais voltada para o core de rematrícula integra diretamente a segurança da informação ao ciclo operacional da instituição, conectando o fluxo estratégico às ferramentas desenvolvidas: o protótipo em HTML e o gerenciamento de dados via CRUD em C#.
+\A visão dos processos de negócios organizacionais voltada para o core de rematrícula integra diretamente a segurança da informação ao ciclo operacional da instituição, conectando o fluxo estratégico às ferramentas desenvolvidas: o protótipo em HTML e o gerenciamento de dados via CRUD em C#.
 .
 
 **2.2 Objetivos Específicos**
@@ -49,10 +49,20 @@ Missão Institucional e Valores Cristãos
 Formação Humanista: A missão do IPUC é formar profissionais e cidadãos éticos, aliando a excelência técnica em Engenharia e Tecnologia à geração de conhecimento pautada nos valores cristãos.  
 Impacto no Dia a Dia: A cultura católica humanista se reflete no compromisso com a solidariedade, a responsabilidade social e a sustentabilidade, orientando as decisões operacionais e o respeito à dignidade humana.  
 
-- Desenvolver um projeto de intervenção da estrutura organizacional utilizando métodos ágeis de gerência de projetos.
+Impacto nos Processos de Atendimento e Negócio
+Tratamento Humanizado ao Aluno: A cultura institucional exige que processos administrativos e financeiros (como a rematrícula) priorizem o respeito ao estudante. Em situações de pendência ou inadimplência, a política institucional busca a negociação amigável em vez de punições pedagógicas.  
+Inclusão e Diversidade: A responsabilidade social da instituição orienta a inclusão de diversos perfis de estudantes (como beneficiários do Prouni) e exige uma atuação focada em acolhimento e acessibilidade.  
+
+Impacto na Tecnologia e na Segurança da Informação
+A identidade cultural e ética da universidade se traduz em diretrizes práticas de TI:
+Privacidade e Proteção de Dados: A ética cristã de respeito ao indivíduo alinha-se diretamente com o cumprimento da LGPD, garantindo que os dados pessoais de alunos e professores sejam coletados com transparência e protegidos contra vazamentos.  
+Desenvolvimento Ético de Software: No desenvolvimento do nosso sistema de rematrícula (HTML/C#), a cultura de integridade exige código seguro (para evitar falhas ou invasões) e combate rigoroso ao plágio e uso ilícito de dados.  
+Acessibilidade Digital: A visão de inclusão social obriga o setor de TI a criar interfaces (como no portal de matrícula e no AVA) compatíveis com tecnologias assistivas para pessoas com deficiência.  
+
+​"O presente projeto de intervenção propõe a reestruturação organizacional do processo de rematrícula do IPUC Engenharia através da adoção de metodologias ágeis de gerenciamento de projetos. Atualmente, o fluxo operacional enfrenta gargalos na validação documental e na garantia da segurança dos dados dos discentes. A intervenção organiza a equipe em papéis bem definidos (PO, Scrum Master e Time Dev/Segurança) e divide a execução em Sprints focadas na entrega progressiva de valor: mapeamento do fluxo, desenvolvimento de uma interface web (HTML/C#) para CRUD de rematrícula e implementação de diretrizes de conformidade com a LGPD e Segurança da Informação. Como resultado, busca-se um processo mais flexível, transparente e alinhado aos padrões regulatórios vigentes."
+
 - Propor melhorias no processo de segurança da informação
 
-Observação: a fim de desenvolver um planejamento eficiente sobre a definição do problema e objetivos do trabalho, fique atento às informações que serão levantadas. Pois um levantamento de informações ruins, levarão a análises ruins. Então, busque variáveis confiáveis para o desenvolvimento do projeto.
 
  
 ## Justificativa
