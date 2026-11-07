@@ -20,7 +20,7 @@ Estamos criando um sistema de rematrícula estudantil com frontend em HTML e bac
 
 ## Orientador
 
-* Nome completo do professor
+* Fábio Leandro Rodrigues Cordeiro
 
 # Documentação
 
