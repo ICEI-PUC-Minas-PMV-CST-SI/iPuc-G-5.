@@ -16,7 +16,7 @@ Estamos criando um sistema de rematrícula estudantil com frontend em HTML e bac
 * Júlio César de Lima Salles
 * Letícia Dayane Santos Silva
 * Kayane Caroline Da Silva Gonçalves
-* Jeferson 
+* Jefferson Gonçalves Gorino De Oliveira
 
 ## Orientador
 
