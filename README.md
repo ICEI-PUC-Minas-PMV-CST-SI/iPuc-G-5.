@@ -15,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 * Kaua Viana Nonata
 * Júlio César de Lima Salles
 * Letícia Dayane Santos Silva
-* Nome completo do aluno 6
+* Kayane Caroline Da Silva Gonçalves 
 
 ## Orientador
 
