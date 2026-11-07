@@ -30,7 +30,7 @@ A visão dos processos de negócios organizacionais voltada para o core de remat
 ​Conscientização: Treinar a equipe que opera o sistema para não cair em golpes de captura de senhas (phishing).
 
 
-Modelo de Topologia
+**Modelo de Topologia**
 A arquitetura do nosso sistema segue um modelo estruturado em camadas para garantir organização, facilidade de manutenção e segurança das informações acadêmicas:
 Camada de Apresentação (Front-end): É a interface web desenvolvida em HTML onde o aluno acessa o sistema, visualiza as disciplinas disponíveis e preenche os dados de renovação de matrícula.
 Camada de Negócio e Lógica (Back-end): Desenvolvida em C#, é o "motor" do sistema. Ela processa as requisições enviadas pelo aluno, aplica as regras de negócio da instituição e gerencia as operações do CRUD (Create, Read, Update, Delete — Criar, Ler, Atualizar e Excluir).
