@@ -1,12 +1,12 @@
 
 ## Objetivos
 
-**2.1 Objetivo Geral**
+**2.1 Objetivo Geral:**
 
 A visão dos processos de negócios organizacionais voltada para o core de rematrícula integra diretamente a segurança da informação ao ciclo operacional da instituição, conectando o fluxo estratégico às ferramentas desenvolvidas: o protótipo em HTML e o gerenciamento de dados via CRUD em C#.
 .
 
-**2.2 Objetivos Específicos**
+**2.2 Objetivos Específicos:**
 
 ● O contexto do negócio do core de rematrícula é o ambiente operacional da instituição de ensino focado em renovar a matrícula do aluno com eficiência e proteção de dados, o fluxo de rematrícula funciona na prática, identificando as necessidades das partes envolvidas, os riscos operacionais e de segurança, e a função de cada tecnologia no processo.
 
