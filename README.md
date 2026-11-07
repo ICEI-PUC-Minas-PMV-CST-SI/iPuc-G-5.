@@ -6,7 +6,7 @@
 
 `1º Período`
 
-Estamos criando um sistema de rematrícula estudantil com frontend em HTML e backend CRUD em C#. Simplifica o processo académico garantindo a proteção e integridade dos dados através de controlos de Segurança da Informação.  
+Estamos criando um sistema de rematrícula estudantil com frontend em HTML e backend CRUD em C#. Simplificando o processo académico e garantindo a proteção e integridade dos dados através de controles de Segurança da Informação.  
 
 ## Integrantes
 
