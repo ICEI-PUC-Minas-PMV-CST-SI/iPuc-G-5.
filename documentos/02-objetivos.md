@@ -42,7 +42,7 @@ Camada de Apresentação (Front-end): É a interface web desenvolvida em HTML on
 Camada de Negócio e Lógica (Back-end): Desenvolvida em C#, é o "motor" do sistema. Ela processa as requisições enviadas pelo aluno, aplica as regras de negócio da instituição e gerencia as operações do CRUD (Create, Read, Update, Delete — Criar, Ler, Atualizar e Excluir).
 Camada de Dados (Banco de Dados): Onde ficam armazenados de forma centralizada e segura os registros dos alunos, históricos e dados financeiros, protegidos por controles de acesso.
 
-**2.Como os dados trafegam**
+**2.Como os dados trafegam:**
 
 No projeto, o mapeamento desse processo funciona de forma integrada:
 1. Acesso do Aluno: O estudante entra na página em HTML, insere suas credenciais de forma segura (com autenticação) e solicita a rematrícula.
