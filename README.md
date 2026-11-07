@@ -6,7 +6,7 @@
 
 `1º Período`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Estamos criando um sistema de rematrícula estudantil com frontend em HTML e backend CRUD em C#. Simplifica o processo académico garantindo a proteção e integridade dos dados através de controlos de Segurança da Informação.  
 
 ## Integrantes
 
