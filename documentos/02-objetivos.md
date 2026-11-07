@@ -50,7 +50,7 @@ No projeto, o mapeamento desse processo funciona de forma integrada:
 3. Resposta Visual: O sistema retorna uma confirmação imediata na interface web para o usuário, garantindo que o ciclo de renovação foi concluído com sucesso.
 
 
-**3.O Instituto Politécnico (IPUC) da PUC Minas —, a cultura organizacional :**
+**3.Instituto Politécnico (IPUC) da PUC Minas —, a cultura organizacional :**
 
 E a dimensão religiosa (humanista e católica) exercem um impacto direto nas operações, na missão e nos sistemas de tecnologia da instituição.  
 Para o trabalho de faculdade/documentação do projeto, você pode apresentar a avaliação do impacto cultural e religioso dividida nos seguintes pontos estratégicos:
