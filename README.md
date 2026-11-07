@@ -1,10 +1,10 @@
 # Título do Projeto
 
-`TCURSO`
+`Tecnólogo em Segurança da Informação`
 
-`DISCIPLINA`
+`Projeto 1 ; Etapa 3`
 
-`SEMESTRE`
+`1º Período`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
