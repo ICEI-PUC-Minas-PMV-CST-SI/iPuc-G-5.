@@ -3,7 +3,7 @@
 
 **2.1 Objetivo Geral**
 
-\A visão dos processos de negócios organizacionais voltada para o core de rematrícula integra diretamente a segurança da informação ao ciclo operacional da instituição, conectando o fluxo estratégico às ferramentas desenvolvidas: o protótipo em HTML e o gerenciamento de dados via CRUD em C#.
+A visão dos processos de negócios organizacionais voltada para o core de rematrícula integra diretamente a segurança da informação ao ciclo operacional da instituição, conectando o fluxo estratégico às ferramentas desenvolvidas: o protótipo em HTML e o gerenciamento de dados via CRUD em C#.
 .
 
 **2.2 Objetivos Específicos**
