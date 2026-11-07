@@ -1,6 +1,6 @@
 # Título do Projeto
 
-`CURSO`
+`TCURSO`
 
 `DISCIPLINA`
 
@@ -11,10 +11,10 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 ## Integrantes
 
 * Fábio Roberto Santos da Silva
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Eduarda de Araújo Brito 
+* Kaua Viana Nonata
+* Júlio César de Lima Salles
+* Letícia Dayane Santos Silva
 * Nome completo do aluno 6
 
 ## Orientador
