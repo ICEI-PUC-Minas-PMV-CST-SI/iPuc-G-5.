@@ -1,12 +1,12 @@
-# Título do Projeto
+# Rematrícula 
 
 `TCURSO`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`PRIMEIRO SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+ESTAMOS TRABALHANDO EM UM NOVO SISTEMA VIRTUAL VOLTADO A REMATRÍCULA DOS ALUNOS TENDO EM MENTE A VISÃO DE MELHORIA DE ATENDIMENTO AO CLIENTE.
 
 ## Integrantes
 
