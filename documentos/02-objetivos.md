@@ -90,28 +90,5 @@ A modernização do sistema de rematrícula do IPUC é essencial para acabar com
 Este projeto se justifica por três motivos principais:
 • Estabilidade: Evitar que o sistema caia nos dias de pico, garantindo que o aluno consiga se matricular sem interrupções.
 • Organização dos Dados: Padronizar as funções do sistema para eliminar informações duplicadas e atualizar os registros de forma imediata.
-• Segurança e Respeito: Proteger os dados dos estudantes contra vazamentos e criar uma página acessível, seguindo os valores éticos e de acolhimento da PUC Minas
-      3.1  Histórico 
-O Instituto Politécnico (IPUC) é uma unidade acadêmica de grande escala da PUC Minas, situada na região metropolitana de Belo Horizonte. Atua no setor educacional privado e sem fins lucrativos, integrando ensino, pesquisa e extensão focados em Engenharia, Tecnologia e projetos de inovação industrial. Sua missão é formar cidadãos éticos com base em valores cristãos e humanistas; sua visão é ser líder em excelência acadêmica e inovação; e seus valores sustentam-se na ética, solidariedade e inclusão. Estrategicamente, busca modernizar sua estrutura física e digital aliando alta capacitação técnica à responsabilidade social e ambiental (ODS).
-
-A segurança do IPUC baseia-se nas diretrizes da ISO 27001/27002 e do NIST CSF. A TI Central da PUC gerencia os firewalls corporativos, os logs de acesso e a segurança das conexões de rede (HTTPS), enquanto os departamentos locais monitoram a segurança física e trabalhista (NR-12) nos laboratórios e oficinas. A proteção do sistema de rematrícula organiza-se de forma estruturada: controle de acesso por perfis para que o aluno acesse apenas seus dados, armazenamento centralizado e seguro das informações acadêmicas e garantia de backups para a recuperação do sistema em caso de incidentes.
-
-• Instabilidade e Sobrecarga no Portal: Quedas frequentes e lentidão do portal nos períodos de pico devido ao excesso de acessos simultâneos, gerando falhas na sincronização das informações e duplicação de dados entre os setores administrativos.
-• Ameaças de Engenharia Social (Phishing): Risco elevado de captura de senhas e roubo de credenciais da equipe que opera o sistema e dos alunos por falta de treinamentos de conscientização e da não obrigatoriedade da verificação em duas etapas (MFA).
-• Vulnerabilidades e Brechas no Portal: Risco de acessos não autorizados por terceiros ou usuários mal-intencionados para manipulação de registros de notas ou grades horárias, agravado pelo uso de softwares e sistemas desatualizados nos laboratórios.
-• TI Invisível (Shadow IT) Crítica: Uso não homologado de contas pessoais de armazenamento (Google Drive/Sheets), grupos de WhatsApp e ferramentas públicas de inteligência artificial para tratar históricos de alunos e dados confidenciais de pesquisas, violando a LGPD.
-• Gargalos Físicos de Infraestrutura: Risco crônico de superaquecimento dos servidores por falta de redundância e de sensores no ar-condicionado, e perigo iminente de inundação do arquivo físico de matrículas por tubulações hidráulicas expostas no teto.
-Mecanismos e Tecnologias de Segurança
-Controle de Acesso: Autenticação centralizada (Single Sign-On) vinculada às credenciais institucionais para restrição por perfil de usuário.
-Segurança de Perímetro e Rede: Uso de firewalls de próxima geração (NGFW), VPNs criptografadas para acesso remoto e segmentação de redes.
-Proteção de Dados e Continuidade: Criptografia de dados em trânsito (HTTPS/TLS) e em repouso, combinada com rotinas automatizadas de backup redundante.
-     5. Processos da Organização
-Suporte e Atendimento: Triagem e resolução de chamados de TI e apoio à utilização das plataformas e laboratórios.
-Gestão de Usuários e Permissões: Ciclo de vida das contas de alunos e professores, provisionando e revogando acessos aos sistemas.
-Gestão de Recursos Acadêmicos: Planejamento e alocação de infraestrutura, softwares e equipamentos para atividades práticas.
-Auditoria e Conformidade: Monitoramento contínuo de logs de acesso e análise de segurança para atender à LGPD.
-     6. Disponibilidade, Integridade e Confidencialidade
-Disponibilidade: Garantia de que portais, sistemas e laboratórios estejam acessíveis quando necessário, utilizando servidores redundantes e planos de contingência.
-Integridade: Proteção dos dados cadastrais e acadêmicos contra alterações não autorizadas, assegurada por registros de auditoria (logs) e controle de versão.
-Confidencialidade: Restrição de informações sensíveis apenas a pessoas autorizadas, com base em perfis de acesso (RBAC) e criptografia.
-
+• Segurança e Respeito: Proteger os dados dos estudantes contra vazamentos e criar uma página acessível, seguindo os valores éticos e de acolhimento da PUC Minas.
+      
