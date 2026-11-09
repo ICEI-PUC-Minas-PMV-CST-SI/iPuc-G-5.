@@ -15,6 +15,7 @@ Exemplo:
 | \*\* relatar hardwares |     |     |
 | \*\* relatar processos de operação de computador |     |     |
 | \*\* outros relatos |     |     |
+| \*\* outros relatos |      |     |
 
 Análise de risco:
 
