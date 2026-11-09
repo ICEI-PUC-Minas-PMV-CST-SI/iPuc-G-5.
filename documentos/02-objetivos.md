@@ -72,7 +72,15 @@ Acessibilidade Digital: A visão de inclusão social obriga o setor de TI a cria
 
 ​"O presente projeto de intervenção propõe a reestruturação organizacional do processo de rematrícula do IPUC Engenharia através da adoção de metodologias ágeis de gerenciamento de projetos. Atualmente, o fluxo operacional enfrenta gargalos na validação documental e na garantia da segurança dos dados dos discentes. A intervenção organiza a equipe em papéis bem definidos (PO, Scrum Master e Time Dev/Segurança) e divide a execução em Sprints focadas na entrega progressiva de valor: mapeamento do fluxo, desenvolvimento de uma interface web (HTML/C#) para CRUD de rematrícula e implementação de diretrizes de conformidade com a LGPD e Segurança da Informação. Como resultado, busca-se um processo mais flexível, transparente e alinhado aos padrões regulatórios vigentes."
 
-- Propor melhorias no processo de segurança da informação
+
+**Propostas de melhorias na segurança da informação** 
+
+• Para o Portal e Sistemas: Implementar autenticação em duas etapas (MFA) para proteger as senhas e adotar balanceamento de carga para acabar com a lentidão no pico de rematrícula.
+• Para as Comunicações (WhatsApp e Nuvem): Criar um guia prático orientando que grupos de WhatsApp e IAs públicas sirvam apenas para avisos gerais, deixando o compartilhamento de relatórios de notas, históricos e pesquisas confidenciais exclusivamente para as ferramentas oficiais da PUC.
+• Para Computadores e Dispositivos: Manter os programas dos laboratórios atualizados e desativar o início automático (Autorun) de pendrives nas portas USB.
+• Para a Infraestrutura Física: Colocar um ar-condicionado reserva na sala de servidores para evitar superaquecimento e instalar calhas protetoras sob os canos no teto do arquivo físico para prevenir danos por vazamentos.
+• Para as Pessoas: Promover avisos e dicas rápidas sobre Phishing e privacidade (LGPD) no próprio portal acadêmico, alertando a comunidade sobre golpes por e-mail.
+
 
 
  
