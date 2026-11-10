@@ -92,5 +92,26 @@ Privacidade vs. Monitoramento: Equilíbrio entre o acompanhamento de métricas d
 | **Transformação Cultural:** Mudança de mentalidade orientada a dados e inovação. | **Segurança por Design:** Ferramentas adotadas com critérios nativos de proteção de dados. | **Governança Digital:** Acompanhamento por comitês e métricas de engajamento. |
 
 
+## 4. Inclusão Digital na Organização
+
+A inclusão digital interna garante que todos os colaboradores, independentemente do nível de letramento tecnológico prévio, consigam desempenhar suas funções com autonomia, segurança e igualdade de oportunidades.
+
+* **Onboarding Tecnológico:** Trilha de aprendizagem inicial estruturada para familiarizar os novos profissionais com o ecossistema de ferramentas da empresa.
+* **Acessibilidade Digital:** Implementação de recursos e tecnologias assistivas (como leitores de tela, interfaces adaptáveis e legendas) para atender pessoas com deficiência.
+* **Capacitação Contínua:** Programas regulares de *upskilling* e *reskilling* para manter as equipes atualizadas frente às inovações tecnológicas.
+* **Equidade de Infraestrutura:** Disponibilização de equipamentos adequados, conectividade estável e suporte técnico acessível a todos os cargos e modelos de trabalho.
+
+---
+
+## 5. Relação Entre as Pessoas no Ambiente Digital
+
+As Tecnologias de Informação e Comunicação transformam profundamente a comunicação interpessoal e a colaboração corporativa, exigindo estratégias para manter o engajamento e a saúde mental das equipes:
+
+* **Colaboração e Empatia:** Utilização equilibrada de ferramentas de comunicação assíncrona (que promovem autonomia e flexibilidade) e síncronas (para alinhamentos rápidos e conexão humana).
+* **Comunicação Transparente:** Manutenção de canais abertos e claros de diálogo para reduzir ruídos operacionais e fortalecer o sentimento de pertencimento, especialmente em equipes híbridas ou remotas.
+* **Bem-Estar Digital:** Estabelecimento de diretrizes saudáveis de desconexão para prevenir a fadiga de telas e o esgotamento (*burnout*), incentivando o equilíbrio entre a vida pessoal e profissional.
+
+
+
 
 
