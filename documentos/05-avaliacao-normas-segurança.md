@@ -37,23 +37,31 @@ Lei de Propriedade Industrial (Lei 9.279/96): Protege patentes e segredos de pro
 ​Plano de Redundância (Failover): Manutenção de ambiente secundário para que, caso o serviço C# ou a base de dados principal apresente falha, as solicitações dos alunos não sejam perdidas.
 ​Tratamento de Exceções no Código: Validações de entrada de dados via C# para prevenir que erros de digitação do usuário derrubem a aplicação (crashes de execução).
 
+5.2 **Detalhamento do mapeamento de riscos de segurança da informação**
+
+- Relatar sobre a segurança física da rede: Restrição de acesso físico aos servidores e equipamentos de rede que hospedam o sistema de rematrícula e banco de dados, utilizando controle por perfis e no-breaks para continuidade operacional.
+- Relatar sobre a análise de riscos, plano de contingência e normas técnicas aplicadas: Adoção da LGPD para proteção de dados acadêmicos/pessoais, diretrizes do OWASP Top 10 contra falhas web e rotinas automatizadas de backup e redundância.
+
+#TABELA DE ANÁLISE:
 
 | Tipo de controle | Descrição | Responsável |
 | --- | --- | --- |
-| ** softwares relacionados ** | Implementação de validações de entrada no backend (C#), firewall de aplicação e criptografia de senhas de acesso. | Equipe de Desenvolvimento |
-| ** hardwares relacionados ** | Monitoramento de uso de CPU e memória do servidor para suportar picos de acessos simultâneos no período de rematrícula. | Infraestrutura / Suporte |
-| ** relatar processos de operação de computador ** | Controle de acesso por perfil (RBAC): aluno altera apenas seu pedido; atendente valida; administrador gerencia o sistema. | Administrador do Sistema |
-| ** outros relatos ** | Orientação à equipe de atendimento para identificação de chamados falsos ou tentativas de engenharia social. | Gestão do Projeto |
-| ** outros relatos ** | Registro em log de todas as operações de alteração de status da rematrícula e execução de backup diário do banco de dados. | Analista de Banco de Dados |
+| **Controles de Software** | Implementação de validações de entrada no backend (C#), firewall de aplicação e criptografia de senhas de acesso. | Equipe de Desenvolvimento |
+| **Controles de Hardware** | Monitoramento de uso de CPU e memória do servidor para suportar picos de acessos simultâneos no período de rematrícula. | Infraestrutura / Suporte |
+| **Processos Operacionais** | Controle de acesso por perfil (RBAC): aluno altera apenas seu pedido; atendente valida; administrador gerencia o sistema. | Administrador do Sistema |
+| **Controles de Conscientização** | Orientação à equipe de atendimento para identificação de chamados falsos ou tentativas de engenharia social. | Gestão do Projeto |
+| **Controles de Backup e Auditoria** | Registro em log de todas as operações de alteração de status da rematrícula e execução de backup diário do banco de dados. | Analista de Banco de Dados |
 
-Análise de risco:
+**Análise de risco:**
 
 | Tipo de exposição | Probabilidade de ocorrência | Estimativa de prejuízo (mensal/anual) |
 | --- | --- | --- |
-| ** softwares relacionados ** | Média | **Alta:** Alteração indevida de dados de alunos, perda de pedidos de rematrícula e retrabalho manual da equipe. |
-| ** hardwares relacionados ** | Média/Alta | **Média:** Queda do sistema, lentidão no atendimento aos alunos e descumprimento dos prazos de rematrícula. |
-| ** relatar processos de operação de computador ** | Baixa | **Alta:** Aplicação de multas da LGPD e danos à reputação da instituição por vazamento de dados. |
-| ** outros relatos ** | Baixa | **Alta:** Impossibilidade de concluir novos pedidos e perda de dados não salvos da sessão do aluno em caso de falha de conexão. |
+| **Falhas de Software / Injeção de Dados** | Média | **Alta:** Alteração indevida de dados de alunos, perda de pedidos de rematrícula e retrabalho manual da equipe. |
+| **Sobrecarga de Hardware / Servidor** | Média/Alta | **Média:** Queda do sistema, lentidão no atendimento aos alunos e descumprimento dos prazos de rematrícula. |
+| **Falhas nos Processos Operacionais** | Baixa | **Alta:** Aplicação de multas da LGPD e danos à reputação da instituição por vazamento de dados. |
+| **Interrupção de Conexão ou Banco de Dados** | Baixa | **Alta:** Impossibilidade de concluir novos pedidos e perda de dados não salvos da sessão do aluno em caso de falha de conexão. |
+
+
 
 
 
