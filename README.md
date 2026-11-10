@@ -1,4 +1,4 @@
-# Título do Projeto
+# Segurança da Informação Aplicada ao Processo de Rematrícula Acadêmica: Estudo de Caso no Instituto Politécnico da PUC Minas (IPUC)
 
 `Tecnólogo em Segurança da Informação`
 
