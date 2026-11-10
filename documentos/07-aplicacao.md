@@ -112,6 +112,13 @@ As Tecnologias de Informação e Comunicação transformam profundamente a comun
 * **Bem-Estar Digital:** Estabelecimento de diretrizes saudáveis de desconexão para prevenir a fadiga de telas e o esgotamento (*burnout*), incentivando o equilíbrio entre a vida pessoal e profissional.
 
 
+---
+
+## 6. Considerações Finais
+
+As Tecnologias de Informação e Comunicação vão muito além da infraestrutura técnica; elas moldam a cultura, a ética e a forma como as pessoas colaboram dentro das organizações. O sucesso na era digital exige um equilíbrio constante entre inovação ágil, rigor na segurança da informação (Tríade CID), conformidade legal (como a LGPD) e, acima de tudo, o foco humanizado na inclusão e no bem-estar dos colaboradores. Dito isso, a tecnologia cumpre seu verdadeiro papel apenas quando potencializa pessoas e constrói ambientes corporativos seguros, éticos e conectados.
+
+
 
 
 
