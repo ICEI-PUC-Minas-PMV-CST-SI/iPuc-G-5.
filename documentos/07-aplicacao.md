@@ -4,15 +4,22 @@ Discorra sobre os impactos das tecnologias de informação e comunicação na so
 
 
 
-         [ Aspectos Éticos e Legais ]
-                               |
-       +-----------------------+-----------------------+
-       |                                               |
-[ Governança & Conformidade ]                     [ Gestão da Privacidade ]
- * LGPD / GDPR                                     * Coleta Mínima de Dados
- * Políticas de Uso Aceitável                      * Transparência Algorítmica
-       |                                               |
-       +-----------------------+-----------------------+
-                               |
-                 [ Pilares da Segurança (CID) ]
-              Confidencialidade | Integridade | Disponibilidade 
+         ```text
+                 [ ASPECTOS ÉTICOS E LEGAIS EM TICs ]
+                                   |
+         +-------------------------+-------------------------+
+         |                                                   |
+[ 1. GOVERNANÇA & CONFORMIDADE ]            [ 2. GESTÃO DA PRIVACIDADE & ÉTICA ]
+ * LGPD (Lei 13.709/2018) & GDPR             * Coleta Mínima e Finalidade Explicita
+ * Propriedade Intelectual & Software         * Mitigação de Vieses Algorítmicos
+ * Políticas de Uso Aceitável (AUP)          * Transparência vs. Monitoramento Justo
+         |                                                   |
+         +-------------------------+-------------------------+
+                                   |
+                  [ 3. PILARES DA SEGURANÇA (CID) ]
+      +----------------------------+----------------------------+
+      |                            |                            |
+[ CONFIDENCIALIDADE ]        [ INTEGRIDADE ]             [ DISPONIBILIDADE ]
+ * Controle de Acesso (RBAC)  * Registros de Audit (Logs)   * Planos de Contingência
+ * Criptografia (Dados/MFA)   * Controle de Versão (Git)    * Rotinas de Backup (Nuvem)
+
