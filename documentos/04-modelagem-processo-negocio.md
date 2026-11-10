@@ -24,6 +24,7 @@ Para eliminar os gargalos operacionais identificados (como instabilidades e qued
 Otimização de Infraestrutura e Escalabilidade (Disponibilidade):
 Substituição de estruturas locais sobrecarregadas por uma arquitetura em nuvem escalável (como Microsoft Azure) com balanceamento de carga e auto-scaling (expansão automática de instâncias nos períodos de pico de rematrícula).  
 Implementação de Firewall de Borda (ex: Cloudflare Pro com WAF e proteção contra DDoS) para filtrar acessos maliciosos antes que cheguem ao portal.  
+
 **Aprimoramento de Controles Tecnológicos e de Dados (Integridade e Confidencialidade):**
 Atualização do código Back-end (C#) com práticas de desenvolvimento seguro (validação rigorosa de entradas para prevenção de SQL Injection).  
 Utilização de banco de dados com transações seguras baseadas em propriedades ACID para impedir falhas de gravação e perda de vagas durante a operação.  
@@ -44,8 +45,5 @@ Direcionamento do uso de ferramentas corporativas oficiais da PUC para o tratame
 
 **Disponível em:** OMG. [Object Management Group. Business Process Model and Notation (Links para um site externo.)](https://www.omg.org/spec/BPMN/2.0.2/PDF"%20\t%20"_blank). v. 2.0.2. Jan 2014.
 
-**Neste item, não se esqueça de:**
 
-- Identificar as principais normas e padrões com foco em segurança da informação
-- Processos de auditoria
-- Certificações
+
