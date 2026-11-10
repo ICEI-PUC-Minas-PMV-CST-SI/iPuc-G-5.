@@ -12,7 +12,7 @@ Estamos criando um sistema de rematrícula estudantil com frontend em HTML e bac
 
 * Fábio Roberto Santos da Silva
 * Eduarda de Araújo Brito 
-* Kaua Viana Nonata
+* Kaua Vianna Nonaka
 * Júlio César de Lima Salles
 * Letícia Dayane Santos Silva
 * Kayane Caroline Da Silva Gonçalves
