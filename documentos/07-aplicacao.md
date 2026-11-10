@@ -83,21 +83,13 @@ Propriedade Intelectual e Proteção de Dados: Uso de licenças adequadas de sof
 Uso Responsável de IA: Evitar vieses algorítmicos em contratações, avaliações e tomadas de decisão automatizadas.
 Privacidade vs. Monitoramento: Equilíbrio entre o acompanhamento de métricas de desempenho e o respeito à privacidade dos profissionais.
 
-```mermaid
-graph TD
-   A[CULTURA DIGITAL ORGANIZACIONAL] --> B[VISÃO ESTRATÉGICA]
-    A --> C[ADOÇÃO TECNOLÓGICA]
-    A --> D[DISSEMINAÇÃO DA CULTURA]
 
-    B --> B1[Foco na Experiência do Usuário]
-    B --> B2[Tecnologia como Habilitadora]
 
-    C --> C1[Seleção por Valor e Usabilidade]
-    C --> C2[Interoperabilidade e Redução de Redundâncias]
-
-    D --> D1[Treinamentos Contínuos: Phishing e Senhas]
-    D --> D2[Liderança como Agente Multiplicador]
-    D --> D3[Comitês de Governança]
+| Visão Estratégica | Adoção Tecnológica | Disseminação da Cultura |
+| :--- | :--- | :--- |
+| **Foco na Experiência do Usuário:** O colaborador e o cliente no centro das soluções. | **Seleção por Valor:** Ferramentas escolhidas por usabilidade e impacto real. | **Treinamentos Contínuos:** Capacitação periódica sobre segurança (phishing e senhas). |
+| **Tecnologia Habilitadora:** A tecnologia como meio de potencializar pessoas, não como um fim. | **Interoperabilidade:** Integração de sistemas e eliminação de softwares redundantes. | **Liderança Multiplicadora:** Gestores atuando como promotores da cultura digital. |
+| | | **Governança:** Acompanhamento por comitês e métricas de engajamento. |
 
 
 
