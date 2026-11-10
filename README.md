@@ -6,7 +6,9 @@
 
 `1º Período`
 
-Estamos criando um sistema de rematrícula estudantil com frontend em HTML e backend CRUD em C#. Simplificando o processo académico e garantindo a proteção e integridade dos dados através de controles de Segurança da Informação.  
+O projeto tem como foco o mapeamento e o aprimoramento da segurança da informação no Instituto Politécnico da Pontifícia Universidade Católica de Minas Gerais (IPUC/PUC Minas), alinhando seus processos institucionais aos pilares de confidencialidade, integridade e disponibilidade (CID), além das diretrizes da LGPD, Marco Civil da Internet e normas educacionais. A partir da análise dos processos de negócio e da aderência aos Objetivos de Desenvolvimento Sustentável (ODS), a equipe selecionou o fluxo de rematrícula acadêmica online (SGA) como processo core. Foram detalhadas as vulnerabilidades e ameaças por meio de matrizes de risco 5x5, cobrindo riscos físicos, lógicos, dispositivos BYOD e o fenômeno da Shadow IT (TI Invisível), culminando na criação de uma Política de Segurança da Informação (PSI) corporativa voltada à governança e proteção do ecossistema acadêmico. 
+
+Dando continuidade ao planejamento operacional e técnico na Etapa 3, o estudo evolui para a construção de soluções práticas de engenharia de software e infraestrutura para mitigar gargalos e incidentes durante os períodos de pico. Isso abrange a concepção de um protótipo navegável com operações de CRUD para o sistema de rematrícula acadêmica, a implementação de uma arquitetura resiliente em nuvem baseada no Microsoft Azure (App Service escalável, banco de dados relacional PostgreSQL com propriedades ACID e proteção de borda via Cloudflare) devidamente orçada sob ótica de CAPEX e OPEX, o desenvolvimento de um script em C# para auditoria e inventário de hardware e software via PowerShell, bem como a formalização do plano de contingência e continuidade de negócios.
 
 ## Integrantes
 
