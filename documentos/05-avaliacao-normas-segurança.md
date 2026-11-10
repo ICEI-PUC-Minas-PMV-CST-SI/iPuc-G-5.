@@ -42,7 +42,7 @@ Lei de Propriedade Industrial (Lei 9.279/96): Protege patentes e segredos de pro
 - Relatar sobre a segurança física da rede: Restrição de acesso físico aos servidores e equipamentos de rede que hospedam o sistema de rematrícula e banco de dados, utilizando controle por perfis e no-breaks para continuidade operacional.
 - Relatar sobre a análise de riscos, plano de contingência e normas técnicas aplicadas: Adoção da LGPD para proteção de dados acadêmicos/pessoais, diretrizes do OWASP Top 10 contra falhas web e rotinas automatizadas de backup e redundância.
 
-**TABELA DE ANÁLISEDE SEGURANÇADO SISTEMA:**
+**TABELA DE ANÁLISEDE SEGURANÇA DO SISTEMA:**
 
 | Tipo de controle | Descrição | Responsável |
 | --- | --- | --- |
