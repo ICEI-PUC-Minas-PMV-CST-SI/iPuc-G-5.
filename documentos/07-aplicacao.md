@@ -89,7 +89,8 @@ Privacidade vs. Monitoramento: Equilíbrio entre o acompanhamento de métricas d
 | :--- | :--- | :--- |
 | **Foco na Experiência do Usuário:** O colaborador e o cliente no centro das soluções. | **Seleção por Valor:** Ferramentas escolhidas por usabilidade e impacto real. | **Treinamentos Contínuos:** Capacitação periódica sobre segurança (phishing e senhas). |
 | **Tecnologia Habilitadora:** A tecnologia como meio de potencializar pessoas, não como um fim. | **Interoperabilidade:** Integração de sistemas e eliminação de softwares redundantes. | **Liderança Multiplicadora:** Gestores atuando como promotores da cultura digital. |
-| | | **Governança:** Acompanhamento por comitês e métricas de engajamento. |
+| **Transformação Cultural:** Mudança de mentalidade orientada a dados e inovação. | **Segurança por Design:** Ferramentas adotadas com critérios nativos de proteção de dados. | **Governança Digital:** Acompanhamento por comitês e métricas de engajamento. |
+
 
 
 
