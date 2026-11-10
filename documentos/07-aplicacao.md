@@ -85,8 +85,7 @@ Privacidade vs. Monitoramento: Equilíbrio entre o acompanhamento de métricas d
 
 ```mermaid
 graph TD
-    **A[CULTURA DIGITAL ORGANIZACIONAL] --> B[VISÃO ESTRATÉGICA]**
-
+   A[CULTURA DIGITAL ORGANIZACIONAL] --> B[VISÃO ESTRATÉGICA]
     A --> C[ADOÇÃO TECNOLÓGICA]
     A --> D[DISSEMINAÇÃO DA CULTURA]
 
