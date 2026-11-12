@@ -4,10 +4,10 @@
 
 ## Fábio Roberto Santos da Silva
 
-* Contribui para o protótipo navegável,
-* Fiz o item 1.1
-* Ajudei no item 4
-* Preenchi campos iniciais no github. (teste) 
+* Contribui com o desenvolvimento do protótipo navegável
+* Corrigi as falhas no protótipo navegável e realizei o item 1.1 (prints e explicações)
+* Ajudei outro integrante a escrever a primeira versão do item 4
+* Escrevi resumo do projeto no github.
 
 ## Kauã Vianna Nonaka
 
