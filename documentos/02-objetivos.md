@@ -64,17 +64,17 @@ Inclusão e Diversidade: A responsabilidade social da instituição orienta a in
 
 A identidade cultural e ética da universidade se traduz em diretrizes práticas de TI:
 * Privacidade e Proteção de Dados: A ética cristã de respeito ao indivíduo alinha-se diretamente com o cumprimento da LGPD, garantindo que os dados pessoais de alunos e professores sejam coletados com transparência e protegidos contra vazamentos.  
-- Desenvolvimento Ético: Na criação do código em C# e da página em HTML, a integridade exige autoria própria, transparência sobre o que o sistema realmente faz e respeito às boas práticas de programação.    
+* Desenvolvimento Ético: Na criação do código em C# e da página em HTML, a integridade exige autoria própria, transparência sobre o que o sistema realmente faz e respeito às boas práticas de programação.    
 
 ​O presente projeto de intervenção apresenta o desenvolvimento de duas soluções práticas no contexto do IPUC Engenharia: um protótipo de interface em HTML para simular o fluxo de rematrícula e um script em C# executado via PowerShell para realizar o inventário de hardware e software em computadores Windows, salvando os dados em arquivo .dat. A organização do trabalho divide-se entre o desenvolvimento técnico dessas ferramentas e a análise conceitual de processos organizacionais, cultura institucional e diretrizes de Segurança da Informação e LGPD.
 
 **Propostas de melhorias na segurança da informação** 
 
-• Para o Portal e Sistemas: Implementar autenticação em duas etapas (MFA) para proteger as senhas e adotar balanceamento de carga para acabar com a lentidão no pico de rematrícula.
-• Para as Comunicações (WhatsApp e Nuvem): Criar um guia prático orientando que grupos de WhatsApp e IAs públicas sirvam apenas para avisos gerais, deixando o compartilhamento de relatórios de notas, históricos e pesquisas confidenciais exclusivamente para as ferramentas oficiais da PUC.
-• Para Computadores e Dispositivos: Manter os programas dos laboratórios atualizados e desativar o início automático (Autorun) de pendrives nas portas USB.
-• Para a Infraestrutura Física: Colocar um ar-condicionado reserva na sala de servidores para evitar superaquecimento e instalar calhas protetoras sob os canos no teto do arquivo físico para prevenir danos por vazamentos.
-• Para as Pessoas: Promover avisos e dicas rápidas sobre Phishing e privacidade (LGPD) no próprio portal acadêmico, alertando a comunidade sobre golpes por e-mail.
+* Para o Portal e Sistemas: Implementar autenticação em duas etapas (MFA) para proteger as senhas e adotar balanceamento de carga para acabar com a lentidão no pico de rematrícula.
+* Para as Comunicações (WhatsApp e Nuvem): Criar um guia prático orientando que grupos de WhatsApp e IAs públicas sirvam apenas para avisos gerais, deixando o compartilhamento de relatórios de notas, históricos e pesquisas confidenciais exclusivamente para as ferramentas oficiais da PUC.
+* Para Computadores e Dispositivos: Manter os programas dos laboratórios atualizados e desativar o início automático (Autorun) de pendrives nas portas USB.
+* Para a Infraestrutura Física: Colocar um ar-condicionado reserva na sala de servidores para evitar superaquecimento e instalar calhas protetoras sob os canos no teto do arquivo físico para prevenir danos por vazamentos.
+* Para as Pessoas: Promover avisos e dicas rápidas sobre Phishing e privacidade (LGPD) no próprio portal acadêmico, alertando a comunidade sobre golpes por e-mail.
 
 
 
