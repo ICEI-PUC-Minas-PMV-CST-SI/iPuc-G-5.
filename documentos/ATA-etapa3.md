@@ -20,3 +20,9 @@
 - Fiquei responsável pelo desenvolvimento do protótipo navegável em HTML
 - Revisei o código e apliquei as correções nas versões de desenvolvimento
 - Escrevi o item 4
+
+
+## Letícia Dayane Santos Silva
+
+* Fiquei responsável no GitHub com a 01 Introdução, 02 objetivos, 07 aplicação
+* Contribui com os textos no GitHub 03 diagnostico organizacional, 05 avaliação das normas de segurança
