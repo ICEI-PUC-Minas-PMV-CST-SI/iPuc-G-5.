@@ -27,9 +27,6 @@ A gestão da informação nas organizações fundamenta-se no triângulo da Segu
 
 Este documento estabelece as diretrizes fundamentais para o uso ético, legal e seguro das Tecnologias de Informação e Comunicação (TICs) na organização, garantindo a conformidade regulatória e a proteção dos ativos de informação.
 
- **ASPECTOS ÉTICOS E LEGAIS**
-
-
 ## 1. Conformidade Legal e Regulatória
 
 A atuação da organização e de seus colaboradores deve estar plenamente alinhada com as legislações vigentes de proteção de dados e direito digital.
