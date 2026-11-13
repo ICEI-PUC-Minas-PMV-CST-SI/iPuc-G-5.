@@ -28,8 +28,9 @@ O processo selecionado é a Rematrícula Acadêmica do Instituto Politécnico da
 
 Para eliminar os gargalos operacionais identificados (como instabilidades e quedas do portal nos picos de acesso, duplicação de dados e riscos de conformidade), propõem-se as seguintes otimizações:  
 
-* Otimização de Infraestrutura e Escalabilidade (Disponibilidade):
-Substituição de estruturas locais sobrecarregadas por uma arquitetura em nuvem escalável (como Microsoft Azure) com balanceamento de carga e auto-scaling (expansão automática de instâncias nos períodos de pico de rematrícula).  
+**Otimização de Infraestrutura e Escalabilidade (Disponibilidade):**
+  
+* Substituição de estruturas locais sobrecarregadas por uma arquitetura em nuvem escalável (como Microsoft Azure) com balanceamento de carga e auto-scaling (expansão automática de instâncias nos períodos de pico de rematrícula).  
 
 * Implementação de Firewall de Borda (ex: Cloudflare Pro com WAF e proteção contra DDoS) para filtrar acessos maliciosos antes que cheguem ao portal.  
 
