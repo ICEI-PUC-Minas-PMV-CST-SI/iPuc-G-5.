@@ -1,20 +1,27 @@
 # 7\. Aplicação de tecnologias de informação e comunicação (Etapa 4)
 
    As Tecnologias de Informação e Comunicação (TICs) transformaram profundamente a dinâmica social e o ecossistema corporativo. Elas deixaram de ser meras ferramentas de suporte operacional para se tornarem o motor estratégico de inovação, cultura e governança dentro das organizações modernas.
-1. Impactos das TICs na Sociedade, Estruturas e Processos
-Sociedade
+
+**1. Impactos das TICs na Sociedade, Estruturas e Processos**
+
+**1.1 Sociedade**
+
 As TICs alteraram a forma como nos comunicamos, consumimos e trabalhamos. Promoveram a hiperconectividade, a democratização do acesso à informação e a criação de mercados digitais globais. Contudo, exigem atenção constante em relação ao letramento digital e à inclusão social.
-Estruturas Organizacionais
+
+**1.2 Estruturas Organizacionais**
+
 As hierarquias tradicionais e rígidas dão lugar a estruturas horizontais, em rede e flexíveis. As TICs viabilizam modelos de trabalho híbridos/remotos e equipes multidisciplinares e distribuídas geograficamente, reduzindo barreiras físicas e acelerando a tomada de decisão.
-Processos Organizacionais
+
+**1.3 Processos Organizacionais**
 A automação, a inteligência artificial e a análise de dados (Analytics) redefinem os processos de negócio:
-Eficiência Operacional: Redução de tarefas repetitivas e otimização do fluxo de trabalho (workflows digitais).
-Agilidade e Adaptabilidade: Metodologias ágeis integradas a plataformas de gestão em tempo real.
-Foco no Cliente: Personalização de produtos e serviços a partir da interpretação contínua de dados de comportamento.
-2. Aspectos Éticos, Legais e Segurança da Informação
+
+* **Eficiência Operacional:** Redução de tarefas repetitivas e otimização do fluxo de trabalho (workflows digitais).
+* **Agilidade e Adaptabilidade:** Metodologias ágeis integradas a plataformas de gestão em tempo real.
+* **Foco no Cliente:** Personalização de produtos e serviços a partir da interpretação contínua de dados de comportamento.
+
+**2. Aspectos Éticos, Legais e Segurança da Informação**
+
 A gestão da informação nas organizações fundamenta-se no triângulo da Segurança da Informação: Confidencialidade, Integridade e Disponibilidade (CID), alinhada à responsabilidade ética e jurídica. 
-
-
     
 # Governança de TICs: Aspectos Éticos, Legais e Segurança da Informação
 
@@ -23,7 +30,7 @@ Este documento estabelece as diretrizes fundamentais para o uso ético, legal e 
  **ASPECTOS ÉTICOS E LEGAIS**
 
 
-## 🏛️ 1. Conformidade Legal e Regulatória
+## 1. Conformidade Legal e Regulatória
 
 A atuação da organização e de seus colaboradores deve estar plenamente alinhada com as legislações vigentes de proteção de dados e direito digital.
 
@@ -37,21 +44,21 @@ A atuação da organização e de seus colaboradores deve estar plenamente alinh
 
 ---
 
-## ⚖️ 2. Aspectos Éticos na Gestão da Informação
+## 2. Aspectos Éticos na Gestão da Informação
 
 A ética digital orienta a tomada de decisão no desenvolvimento, implantação e uso de tecnologias.
 
-### 🤖 Uso Responsável de Inteligência Artificial e Algoritmos
+### Uso Responsável de Inteligência Artificial e Algoritmos
 * **Mitigação de Vieses:** Algoritmos utilizados em recrutamento, avaliação de desempenho ou concessão de acessos devem passar por auditorias periódicas para evitar discriminação automatizada.
 * **Transparência Algorítmica:** As decisões impactantes tomadas por sistemas automatizados devem ser explicáveis e passíveis de revisão humana.
 
-### 🔍 Monitoramento vs. Privacidade
+### Monitoramento vs. Privacidade
 * **Transparência de Logs:** Os colaboradores devem ser informados sobre os dados de uso de dispositivos corporativos que são monitorados pela equipe de TI/Segurança.
 * **Proporcionalidade:** O monitoramento restringe-se ao ambiente e ferramentas de trabalho, respeitando a privacidade dos dados pessoais dos profissionais.
 
 ---
 
-## 🔒 3. Pilares da Segurança da Informação (Tríade CID)
+## 3. Pilares da Segurança da Informação (Tríade CID)
 
 A segurança da informação é sustentada por três pilares essenciais:
 
@@ -63,26 +70,29 @@ A segurança da informação é sustentada por três pilares essenciais:
 
 ---
 
-## 🛡️ 4. Gestão de Riscos e Incidentes de Cibersegurança
+## 4. Gestão de Riscos e Incidentes de Cibersegurança
 
 1. **Gestão de Vulnerabilidades:** Realização periódica de varreduras de segurança e testes de intrusão (*pentests*).
+
 2. **Resposta a Incidentes:**
    * Notificação imediata da equipe de Segurança de Informação em caso de suspeita ou vazamento de dados.
    * Acionamento do plano de contenção e mitigação de danos.
    * Comunicação às autoridades competentes (ex.: ANPD) e aos titulares de dados afetados, conforme prazos legais.
-3. **Conscientização Contínua:** Treinamentos periódicos sobre *phishing*, engenharia social e boas práticas de criação e gestão de senhas.
 
+3. **Conscientização Contínua:** Treinamentos periódicos sobre *phishing*, engenharia social e boas práticas de criação e gestão de senhas.
 
 
 **Conformidade Legal e Regulatória**
 
+* **LGPD / GDPR:** Aderência estrita à Lei Geral de Proteção de Dados, garantindo o consentimento, a transparência na coleta e o tratamento adequado de dados pessoais de colaboradores e clientes.
 
-LGPD / GDPR: Aderência estrita à Lei Geral de Proteção de Dados, garantindo o consentimento, a transparência na coleta e o tratamento adequado de dados pessoais de colaboradores e clientes.
-Propriedade Intelectual e Proteção de Dados: Uso de licenças adequadas de software e proteção de ativos de informação estratégicos.
-Ética Digital
-Uso Responsável de IA: Evitar vieses algorítmicos em contratações, avaliações e tomadas de decisão automatizadas.
-Privacidade vs. Monitoramento: Equilíbrio entre o acompanhamento de métricas de desempenho e o respeito à privacidade dos profissionais.
+* **Propriedade Intelectual e Proteção de Dados:** Uso de licenças adequadas de software e proteção de ativos de informação estratégicos.
 
+**Ética Digital**
+
+* **Uso Responsável de IA:** Evitar vieses algorítmicos em contratações, avaliações e tomadas de decisão automatizadas.
+
+* **Privacidade vs. Monitoramento:** Equilíbrio entre o acompanhamento de métricas de desempenho e o respeito à privacidade dos profissionais.
 
 
 | Visão Estratégica | Adoção Tecnológica | Disseminação da Cultura |
