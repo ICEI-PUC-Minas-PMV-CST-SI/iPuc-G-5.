@@ -31,3 +31,8 @@
 * Fiquei responsavel pela atividade 1 do template 3.
 * Contribui na 4, 5 e 6 do numero 3 diagnostico organizacional.
 * Fiz o item 8 referencias.
+
+## Eduarda de Araújo Brito
+* Fiquei responsável na documentação do GitHub na parte 4.
+* Contribui nas partes 2 e 5 dos documentos.
+  
