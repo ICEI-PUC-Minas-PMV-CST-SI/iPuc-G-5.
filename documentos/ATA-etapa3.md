@@ -26,3 +26,8 @@
 
 * Fiquei responsável no GitHub com a 01 Introdução, 02 objetivos, 07 aplicação
 * Contribui com os textos no GitHub 03 diagnostico organizacional, 05 avaliação das normas de segurança
+
+## Kayane Caroline da Silva Gonçalves
+* Fiquei responsavel pela atividade 1 do template 3.
+* Contribui na 4, 5 e 6 do numero 3 diagnostico organizacional.
+* Fiz o item 8 referencias.
