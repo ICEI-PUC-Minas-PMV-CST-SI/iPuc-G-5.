@@ -7,9 +7,8 @@ A visão dos processos de negócios organizacionais voltada para o core de remat
 
 **2.2 Objetivos Específicos:**
 
-● O contexto do negócio do core de rematrícula é o ambiente operacional da instituição de ensino focado em renovar a matrícula do aluno com eficiência e proteção de dados, enquanto o script de inventário em C# atua na governança e suporte aos ativos tecnológicos da instituição. O fluxo funciona na prática, identificando as necessidades das partes envolvidas, os riscos operacionais e de segurança, e a função de cada tecnologia no processo.
-
-● As principais normas de segurança da informação (como ISO/IEC 27001/27002 e NIST CSF) organizam suas regras em 4 categorias essenciais. No sistema e nas ferramentas da instituição, esses itens são aplicados assim:
+O contexto do negócio do core de rematrícula é o ambiente operacional da instituição de ensino focado em renovar a matrícula do aluno com eficiência e proteção de dados, enquanto o script de inventário em C# atua na governança e suporte aos ativos tecnológicos da instituição. O fluxo funciona na prática, identificando as necessidades das partes envolvidas, os riscos operacionais e de segurança, e a função de cada tecnologia no processo.
+   As principais normas de segurança da informação (como ISO/IEC 27001/27002 e NIST CSF) organizam suas regras em 4 categorias essenciais. No sistema e nas ferramentas da instituição, esses itens são aplicados assim:
 
 **​1. Controles Tecnológicos (Proteção do Software)**
 
@@ -36,6 +35,7 @@ A visão dos processos de negócios organizacionais voltada para o core de remat
 **1.Modelo de Topologia:**
 
 A arquitetura do nosso projeto é enxuta e focada nas entregas propostas:
+
 **Camada de Apresentação/Interface (Front-end):** Protótipo web desenvolvido em HTML que simula a interface do processo de rematrícula.
 
 **Camada de Automação e Coleta (Script C#):** Script desenvolvido em C# executado no PowerShell em sistemas Windows, contendo o menu interativo (1. Hardware, 2. Software, 3. Hardware e Software).
@@ -45,14 +45,17 @@ A arquitetura do nosso projeto é enxuta e focada nas entregas propostas:
 **2.Como os dados trafegam:**
 
 **Acesso do Aluno:** Funciona como uma interface de prototipagem/apresentação para simular o fluxo de atendimento ao aluno na rematrícula.
+
 **Resposta Visual:** O sistema retorna uma confirmação imediata na interface web para o usuário, garantindo que o ciclo de renovação foi concluído com sucesso.
+
 **No Script C#:** O usuário executa o script via PowerShell, escolhe uma das opções do menu, e o programa coleta as informações da máquina Windows, gerando e salvando o resultado diretamente no arquivo
 
-**3.Instituto Politécnico (IPUC) da PUC Minas —, a cultura organizacional :**
+**3.Instituto Politécnico (IPUC) da PUC Minas, a cultura organizacional :**
 
 A dimensão humanista e católica da instituição orienta as operações, a missão e o desenvolvimento tecnológico no ambiente acadêmico:
 
 **Missão Institucional e Valores Cristãos:** A missão do IPUC é formar profissionais e cidadãos éticos, aliando a excelência técnica em Engenharia e Tecnologia à geração de conhecimento pautada nos valores cristãos.
+
 **Impacto no Dia a Dia:** A cultura humanista reflete-se no compromisso com a solidariedade, a responsabilidade social e o respeito à dignidade humana. 
 
 **4.Impacto nos Processos de Atendimento e Negócio:**
