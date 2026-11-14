@@ -4,7 +4,7 @@ A infraestrutura do sistema de rematrícula da IPUC baseia-se em uma arquitetura
 
 ## Identificação e Desenho da Topologia de Rede
 
-A topologia adotada para o ambiente físico no câmpus da IPUC (onde operam a Secretaria Acadêmica e o Financeiro) é a **Topologia em Estrela**. Nesse modelo, os computadores dos funcionários conectam-se a um equipamento central (Switch) via cabeamento físico UTP. O uso de rede Wi-Fi internamente é tratado como opcional, priorizando a estabilidade e segurança das conexões cabeadas para as operações críticas de secretaria e financeiro.
+A topologia adotada para o ambiente físico no câmpus da IPUC (onde operam a Secretaria Acadêmica e o Financeiro) é a **Topologia em Estrela** (Topologia do projeto hibrida). Nesse modelo, os computadores dos funcionários conectam-se a um equipamento central (Switch) via cabeamento físico UTP. O uso de rede Wi-Fi internamente é tratado como opcional, priorizando a estabilidade e segurança das conexões cabeadas para as operações críticas de secretaria e financeiro.
 
 Para a comunicação externa e hospedagem do sistema, utiliza-se a arquitetura **Cliente-Servidor via Internet**. Os clientes (alunos em suas residências, seja via cabo, rede móvel 4G/5G ou Wi-Fi opcional, e funcionários na IPUC) requisitam acesso. O tráfego passa pela rede de borda (Cloudflare) e chega aos servidores lógicos (Azure App Service e banco de dados PostgreSQL).
 
