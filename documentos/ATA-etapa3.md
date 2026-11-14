@@ -34,5 +34,5 @@
 
 ## Eduarda de Araújo Brito
 * Fiquei responsável na documentação do GitHub na parte 4.
-* Contribui nas partes 2 e 5 dos documentos.
+* Contribui nas partes 2, 3 e 5 dos documentos.
   
