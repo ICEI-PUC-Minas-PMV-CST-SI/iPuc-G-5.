@@ -27,6 +27,7 @@
 * Fiquei responsável no GitHub com a 01 Introdução, 02 objetivos, 07 aplicação
 * Contribui com os textos no GitHub 03 diagnostico organizacional, 05 avaliação das normas de segurança
 * Fiquei responsável também pela criação do grupo no github.
+* Ajudei com a atividade 1 da tabela no teamplete 3.
 
 ## Kayane Caroline da Silva Gonçalves
 * Fiquei responsavel pela atividade 1 do template 3.
