@@ -35,4 +35,9 @@
 ## Eduarda de Araújo Brito
 * Fiquei responsável na documentação do GitHub na parte 4.
 * Contribui nas partes 2, 3 e 5 dos documentos.
+
+## Jefferson Gonçalves Gorino De Oliveira
+* Fiquei responsavél pela atividade 2 do Template 3.
+* Contribui na atividade 4 do Template 3 com o companheiro Fábio.
+* Fiquei responsavel pelo 06-Topologia-Rede e 09-Apedice do GitHub.
   
