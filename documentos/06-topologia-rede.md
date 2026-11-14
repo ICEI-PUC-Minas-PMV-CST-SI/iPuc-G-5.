@@ -8,7 +8,7 @@ A topologia adotada para o ambiente físico no câmpus da IPUC (onde operam a Se
 
 Para a comunicação externa e hospedagem do sistema, utiliza-se a arquitetura **Cliente-Servidor via Internet**. Os clientes (alunos em suas residências, seja via cabo, rede móvel 4G/5G ou Wi-Fi opcional, e funcionários na IPUC) requisitam acesso. O tráfego passa pela rede de borda (Cloudflare) e chega aos servidores lógicos (Azure App Service e banco de dados PostgreSQL).
 
-![Diagrama_Azure_IPUC.png](img/Topologia-rede.jpg)
+![Diagrama_Azure_IPUC.png](img/Topologia-rede.png)
 
 ## Tipos de Redes Utilizados pela Organização
 
