@@ -39,5 +39,5 @@
 ## Jefferson Gonçalves Gorino De Oliveira
 * Fiquei responsavél pela atividade 2 do Template 3.
 * Contribui na atividade 4 do Template 3 com o companheiro Fábio.
-* Fiquei responsavel pelo 06-Topologia-Rede e 09-Apedice do GitHub.
+* Fiquei responsavel pelo item 06-Topologia-Rede e 09-Apedice do GitHub.
   
